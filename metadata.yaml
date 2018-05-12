@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23150#The-Albert-Gate-MysteryBeing-Further-Adventures-of-Reginald-Brett-Barrister-Detective
 gutenberg_issued: '2007-10-22'
 gutenberg_type: Text
 identifiers:
